@@ -16,14 +16,9 @@
 * Online Design
 * 3D Printing
 ## Links and Contacts
-* Discord: [EvanB](https://discord.com/channels/@me/EvanB#8117)
-* Instagram: TBD
-* Snapchat: TBD
-
 <p align=center>
   <a href="https://discord.gg/F6tgGg6TDZ"><img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.linkedin.com/in/evan-brundritt"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  
 </p>
 
 ![JustEvanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEvanB&show_icons=true&theme=tokyonight)
