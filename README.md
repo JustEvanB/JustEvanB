@@ -21,4 +21,6 @@
   <a href="https://www.linkedin.com/in/evan-brundritt"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 </p>
 
+## Statistics
+
 ![JustEvanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEvanB&show_icons=true&theme=tokyonight)
